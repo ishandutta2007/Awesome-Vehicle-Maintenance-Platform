@@ -1,333 +1,333 @@
-# Awesome-Vehicle-Maintenance-Platform
-
-### Top Vehicle Maintenance Platform Ecosystem
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**
-*Focused on Fleet Maintenance, Preventive Maintenance, Work Orders, Inspections, Parts, Vehicle Lifecycle & Fleet Operations*
-**Last updated: August 2026**
-
-This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **Vehicle Maintenance Management, Fleet Maintenance Management, Fleet Management Systems, CMMS, Preventive Maintenance, Digital Inspections, Work Orders, Parts Inventory, Fuel Management and Vehicle Lifecycle Management**.
-
-These platforms help organizations manage vehicles and equipment from acquisition through maintenance and eventual disposal, including **preventive-maintenance schedules, inspections, defects, work orders, repair history, parts, labor, fuel, compliance, documents, vendors and total cost of ownership**.
-
-**Examples** include Fleetio, Whip Around, AUTOsist, MaintainX Fleet, AssetWorks, ManagerPlus, RTA Fleet, Fiix, Chevin FleetWave and Simply Fleet.
-
-Fleetio, for example, combines vehicle and asset management with preventive-maintenance scheduling, inspections, work orders, service history, parts, fuel, expenses and reporting. [Fleetio](https://www.fleetio.com/)
-Whip Around focuses on digital inspections, maintenance, defects, work orders, asset management and compliance. [Whip Around](https://whiparound.com/)
-AUTOsist combines preventive maintenance, inspections, work orders, service history, fuel, inventory and fleet reporting. [AUTOsist](https://autosist.com/)
-MaintainX provides fleet-oriented CMMS capabilities including work orders, meter-based preventive maintenance, asset history, inspections, parts inventory and reporting. [MaintainX](https://www.getmaintainx.com/industries/fleet-management)
-
-**Open-source emphasis**: This repository deliberately gives substantial attention to open-source alternatives and building blocks. A complete open-source equivalent of a mature commercial fleet-maintenance platform is still relatively uncommon, so this section includes projects covering **fleet maintenance, vehicle management, inspections, work orders, preventive maintenance, inventory, fuel, telematics, tracking, fleet operations and ERP integration**.
-
-Among the strongest open-source candidates are **OpenFleet, FleetMS, VSD Fleet Management System, Fleetbase FleetOps, Vehicle Manager and other specialized fleet-management projects**. OpenFleet, for example, provides vehicle and asset management, work orders, inspections, preventive maintenance, inventory, vendors, reporting and audit capabilities. [OpenFleet](https://github.com/warrengalyen/OpenFleet)
-FleetMS specifically describes itself as open-source fleet maintenance and management software with vehicles, inspections, issues, service reminders, work orders, parts/inventory and fuel logging. [FleetMS](https://github.com/jmnda-dev/fleetms)
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites or GitHub repositories.
-
-## Table of Contents
-
-* [SaaS/Hosted Platforms](#saashosted-platforms)
-* [Open-Source GitHub Projects](#open-source-github-projects)
-* [Additional Strong Open-Source Options](#additional-strong-open-source-options)
-* [Recommended Open-Source Vehicle Maintenance Stack](#recommended-open-source-vehicle-maintenance-stack)
-* [How to Contribute](#how-to-contribute)
-* [Disclaimer](#disclaimer)
-
-## SaaS/Hosted Platforms
-
-| Platform | Description / Focus | Starting Pricing | Free Tier / Free Trial Limits |
-| :--- | :--- | :--- | :--- |
-| **[Fleetio](https://www.fleetio.com/)** | Comprehensive cloud fleet-management and maintenance platform covering vehicles, equipment, preventive maintenance, inspections, issues, work orders, service history, parts, fuel, expenses, compliance, reporting and fleet lifecycle management. | **$4 / vehicle / month** (Essential tier billed annually; $5/vehicle/mo billed monthly; 5-vehicle minimum) | **14-day free trial** (full access, no credit card required; no permanent free tier) |
-| **[Whip Around](https://whiparound.com/)** | Cloud fleet-management platform focused on digital inspections, maintenance, compliance, defects, work orders, asset tracking and parts/inventory management. | **$5 / asset / month** (Standard tier billed annually) | **Free Forever plan** (Basic tier: limited to 1 asset and 1 user) or **7-day free trial** for Pro tier (no credit card required) |
-| **[AUTOsist](https://autosist.com/)** | Fleet-management and maintenance platform covering preventive maintenance, digital inspections, service history, work orders, fuel, inventory, documents and reporting. | **$6 / vehicle / month** (Maintenance package billed annually; 5-vehicle minimum) | **14-day free trial** (full access, no credit card required; no permanent free tier) |
-| **[MaintainX Fleet](https://www.getmaintainx.com/industries/fleet-management)** | Fleet-oriented CMMS platform providing work orders, preventive maintenance, meter-based service triggers, asset health/history, inspections, parts inventory and maintenance reporting. | **$20 / user / month** (Essential tier billed annually; $25/user/mo billed monthly; free unlimited work requesters) | **Free Forever plan** (Basic tier: unlimited work orders, up to 2 active repeating PMs, 1-month analytics history) or **30-day free trial** on paid tiers |
-| **[AssetWorks Fleet](https://www.assetworks.com/)** | Enterprise fleet-management ecosystem designed for government, education, transportation and commercial organizations, covering vehicle lifecycle, maintenance, work orders, parts, fuel, inventory, compliance and fleet operations. | **~$3,000 / month** base contract entry benchmark (~$36,000–$50,000/year enterprise deployment) | No permanent free tier; **Guided product demo & custom pilot** available upon request (no self-serve free trial) |
-| **[ManagerPlus](https://managerplus.com/)** | Asset and maintenance-management platform providing preventive maintenance, work orders, inspections, parts, inventory, asset history and maintenance reporting. Useful for organizations managing mixed fleets and physical assets. | **$85 / user / month** (Lightning Plus tier billed annually; free unlimited work requesters) | **14-day free trial / guided pilot** available upon request (no permanent free tier) |
-| **[RTA Fleet](https://www.rtafleet.com/)** | Fleet-management and maintenance software designed for organizations managing vehicles and equipment. Covers preventive maintenance, work orders, inspections, parts, fuel, labor, asset history and fleet reporting. | **$6 / asset / month** (Pro tier billed annually; 100-asset minimum, includes unlimited users) | No permanent free tier; **Custom live demo & pilot program** available upon request (no self-serve free trial) |
-| **[Fiix](https://www.fiixsoftware.com/)** | Cloud CMMS platform supporting preventive, corrective and condition-based maintenance, work orders, asset management, parts inventory, scheduling and maintenance analytics. It can be applied to fleet and vehicle maintenance environments. | **$45 / user / month** (Basic tier billed annually) | **Free Forever plan** (up to 3 users, max 25 active PM tasks, ~20 tracked assets; community support only) |
-| **[Chevin FleetWave](https://www.chevinfleet.com/)** | Enterprise fleet-management platform covering vehicle lifecycle, maintenance, compliance, driver management, fuel, costs, workshops, assets and fleet analytics. | **$3.00–$5.00 / vehicle / month** (FleetWave Core tier; additional assets at ~$0.50/month) | **14-day free trial** available upon request (no credit card required for trial; no permanent free tier) |
-| **[Simply Fleet](https://www.simplyfleet.app/)** | Fleet-management and maintenance platform designed to simplify vehicle tracking, preventive maintenance, inspections, service records, expenses, documents and fleet administration. | **$2 / vehicle / month** (Essential tier billed annually at $20/vehicle/year) | **Free Forever plan** (up to 5 vehicles and 3 users) or **14-day free trial** for paid tiers (no credit card required) |
-| **[Fleet Maintenance Pro](https://www.fleetmaintenancepro.com/)** | Fleet maintenance management software focused on preventive maintenance, work orders, vehicle history, parts, labor, fuel and fleet-cost tracking. | **$30–$35 / user / month** (Cloud tier) or **$649 one-time** perpetual desktop license | **30-day free trial** (full evaluation access for desktop or cloud; no permanent free tier) |
-| **[Samsara Fleet](https://www.samsara.com/)** | Connected-operations platform combining telematics, vehicle diagnostics, inspections, maintenance workflows, driver operations, safety and fleet visibility. | **~$27–$33 / vehicle / month** (Software subscription; ~$99–$148 one-time gateway hardware fee; 3-year contract) | **30-day free trial** (includes hardware evaluation with risk-free return window; no permanent free tier) |
-| **[Geotab](https://www.geotab.com/)** | Telematics and fleet-management ecosystem providing vehicle data, diagnostics, maintenance-related insights, driver management and integrations through its connected-vehicle platform. | **~$30–$50 / vehicle / month** (Software + GO hardware bundle via authorized resellers) | **30-day hardware pilot / demo kit** available via authorized resellers (no self-serve free trial or permanent free tier) |
-| **[Verizon Connect](https://www.verizonconnect.com/)** | Fleet-management and telematics platform supporting vehicle tracking, maintenance-related workflows, inspections, driver operations and fleet analytics. | **~$20–$30 / vehicle / month** (Reveal Starter tier; typically 36-month contract) | **30-day pilot / trial** available upon request with hardware shipment (no permanent free tier) |
-| **[Motive](https://gomotive.com/)** | Fleet-management platform combining vehicle telematics, inspections, maintenance, driver workflows, safety and compliance capabilities. | **~$25 / vehicle / month** (Base software subscription; 12-month minimum contract; hardware gateway separate) | **Free Driver App & Workforce Management (WFM) tier** for basic driver logging; **Interactive demo / custom pilot** on request for fleet software |
-| **[Fleet Complete](https://www.fleetcomplete.com/)** | Connected fleet-management platform covering vehicle tracking, maintenance, asset management, driver operations and telematics. | **~$20–$45 / vehicle / month** (Base tracking and maintenance packages) | No permanent free tier; **Guided live demo & evaluation pilot** available upon request (no self-serve free trial) |
-| **[Limble CMMS](https://limblecmms.com/)** | Cloud CMMS focused on preventive maintenance, work orders, asset history, inspections, parts and maintenance analytics. Suitable for fleet and mixed-asset maintenance environments. | **$28 / user / month** (Standard tier billed annually; free unlimited work requesters) | **14-day free trial** (full feature access, no credit card required; no permanent free tier) |
-| **[UpKeep](https://www.onupkeep.com/)** | Mobile-first CMMS providing work orders, preventive maintenance, asset management, inspections, inventory, reporting and maintenance workflows that can be adapted to fleet operations. | **$24 / user / month** (Essential tier billed annually; free unlimited view-only/requester users) | **7-day free trial** (full feature access, no credit card required; no permanent free tier) |
-
-## Open-Source GitHub Projects
-
-> **Note:** The projects below are not all equally mature or complete. They range from dedicated fleet-maintenance systems to fleet-management platforms, ERP extensions, telematics systems and smaller vehicle-maintenance applications.
-
-### Full Fleet Maintenance & Management Systems
-
-* **[OpenFleet](https://github.com/warrengalyen/OpenFleet)**
-  **Full open-source fleet & maintenance platform — strongest current candidate.**
-  Full-stack fleet and maintenance management system built with .NET 8 and React. Includes vehicle and asset management, work orders, inspections, preventive maintenance, inventory, vendors, reporting, audit logs, authentication, real-time notifications and maintenance history.
-
-* **[FleetMS](https://github.com/jmnda-dev/fleetms)**
-  **Dedicated open-source fleet maintenance platform.**
-  AGPL-3.0 fleet-maintenance and management application covering vehicles, documents, drivers, inspections, issues, service groups, service reminders, work orders, parts/inventory and fuel logging. The project is explicitly intended as an open-source alternative to commercial fleet-management solutions.
-
-* **[VSD Fleet Management System](https://github.com/nelsonmpanju/Fleet-Management-System)**
-  **Open-source ERPNext-based fleet-management system.**
-  Comprehensive fleet solution built on the Frappe/ERPNext ecosystem. Covers vehicle and driver management, cargo, trips, fuel, expenses, real-time tracking, breakdown management, financial workflows, reporting and fleet operations. Licensed under GPL-3.0.
-
-* **[Fleetbase FleetOps](https://github.com/fleetbase/fleetops)**
-  **Open-source fleet & transport management extension.**
-  FleetOps extends Fleetbase with fleet, vehicle, driver, telematics and maintenance capabilities. It supports vehicle status, positions, equipment, schedules, work orders, preventive-maintenance schedules, maintenance records, parts, warranties, fuel reports and telematics integrations.
-
-* **[Vehicle Manager](https://github.com/pablonortiz/vehicle-manager)**
-  **Open-source vehicle maintenance application.**
-  Cross-platform Flutter application for managing vehicles, inspections, insurance, mileage, vehicle status, maintenance records, invoices, documents, notes and photos. Licensed under MIT.
-
-* **[Fleet Management System — Laravel](https://github.com/navodya0/FMS)**
-  **Open-source fleet-management application.**
-  Laravel-based system covering vehicle management, inspections, rentals and procurement, with a focus on fleet-maintenance operations.
-
-* **[LoadSmart Fleet Management System](https://github.com/tolgatasci/fleet-management-system)**
-  **Open-source fleet and logistics platform.**
-  Fleet-management system built with Laravel and Vue covering vehicles, maintenance, inspections, work orders, drivers, real-time tracking, operational logistics and reporting.
-
-* **[Fleet Management System — Java/React](https://github.com/SuyashT0911/Fleet-management-system-)**
-  **Open-source fleet-management reference project.**
-  Full-stack fleet-management application covering vehicles, drivers, trips, maintenance, fuel tracking and reporting, with a Java backend, React frontend and SQL database.
-
-### Fleet & Transportation Management
-
-* **[Fleetbase](https://github.com/fleetbase/fleetbase)**
-  **Open-source logistics and fleet platform.**
-  Open-source logistics infrastructure that can provide the foundation for vehicle, driver, order, tracking and transport-management applications.
-
-* **[FleetOps](https://github.com/fleetbase/fleetops)**
-  **Fleet operations + maintenance layer.**
-  Particularly relevant for vehicle-maintenance use cases because it includes vehicle maintenance history, work orders, preventive-maintenance schedules, parts, warranties and telematics connectivity.
-
-* **[ERPNext](https://github.com/frappe/erpnext)**
-  **Open-source ERP foundation.**
-  Provides accounting, inventory, purchasing, assets and business-management capabilities. It can act as the enterprise layer around a dedicated fleet-maintenance application.
-
-* **[Frappe Framework](https://github.com/frappe/frappe)**
-  **Application framework.**
-  Useful for building custom fleet-management applications, dashboards, workflows, permissions, APIs and asset-management modules.
-
-### Vehicle Tracking & Telematics
-
-* **[Traccar](https://github.com/traccar/traccar)**
-  **Open-source GPS tracking platform.**
-  Mature open-source GPS tracking server supporting a large number of tracking protocols and devices. It can provide vehicle location, movement and telemetry data to an open fleet-maintenance platform.
-
-* **[Traccar Web](https://github.com/traccar/traccar-web)**
-  **Fleet tracking interface.**
-  Web interface for Traccar providing maps, vehicles, positions, trips, events, reports and tracking functionality.
-
-* **[OwnTracks](https://github.com/owntracks/recorder)**
-  **Open-source location infrastructure.**
-  Self-hosted location-tracking ecosystem that can be adapted for selected vehicle or mobile-asset tracking scenarios.
-
-### IoT, Vehicle Diagnostics & Data Collection
-
-* **[ThingsBoard](https://github.com/thingsboard/thingsboard)**
-  **IoT and telemetry platform.**
-  Open-source IoT platform for collecting vehicle/asset telemetry, creating dashboards, processing events and building rules-based workflows.
-
-* **[Node-RED](https://github.com/node-red/node-red)**
-  **Integration and automation layer.**
-  Flow-based open-source platform useful for connecting GPS trackers, vehicle sensors, OBD devices, MQTT, APIs, databases and fleet-maintenance systems.
-
-* **[Eclipse Mosquitto](https://github.com/eclipse-mosquitto/mosquitto)**
-  **MQTT messaging infrastructure.**
-  Lightweight open-source MQTT broker suitable for connecting vehicle telemetry devices and IoT sensors to a fleet-management backend.
-
-* **[Eclipse Kura](https://github.com/eclipse-kura/kura)**
-  **IoT edge framework.**
-  Open-source edge-computing framework useful for collecting and processing telemetry close to vehicles or other mobile assets.
-
-### Maintenance / CMMS Building Blocks
-
-* **[GLPI](https://github.com/glpi-project/glpi)**
-  **Open-source IT/asset management platform.**
-  Provides asset inventory, tickets, contracts, documents and maintenance-oriented workflows. With customization, it can serve as a broader asset-management layer around fleet operations.
-
-* **[openMAINT](https://github.com/openmaint/openmaint)**
-  **Open-source facility and asset maintenance platform.**
-  Useful as a CMMS/EAM foundation for organizations managing physical assets and maintenance workflows, although it is not specifically vehicle-focused.
-
-* **[ERPNext Maintenance](https://github.com/frappe/erpnext)**
-  **ERP-integrated maintenance foundation.**
-  ERPNext can provide asset, stock, purchasing, accounting and service-management capabilities around a custom fleet-maintenance implementation.
-
-* **[Snipe-IT](https://github.com/snipe/snipe-it)**
-  **Open-source asset-management foundation.**
-  Primarily an IT asset-management platform, but useful for asset assignment, lifecycle tracking, documentation and inventory concepts in custom fleet-management systems.
-
-## Additional Strong Open-Source Options
-
-The following projects are not necessarily complete Fleetio/FleetWave/RTA replacements but can provide important components for an open vehicle-maintenance ecosystem:
-
-* **[OpenFleet](https://github.com/warrengalyen/OpenFleet)** for dedicated fleet maintenance, inspections, work orders and preventive maintenance.
-* **[FleetMS](https://github.com/jmnda-dev/fleetms)** for open-source vehicle maintenance and fleet operations.
-* **[VSD Fleet Management System](https://github.com/nelsonmpanju/Fleet-Management-System)** for ERPNext-based fleet operations, trips, fuel and financial management.
-* **[Fleetbase FleetOps](https://github.com/fleetbase/fleetops)** for fleet operations, telematics and maintenance.
-* **[Vehicle Manager](https://github.com/pablonortiz/vehicle-manager)** for lightweight cross-platform vehicle maintenance.
-* **[Traccar](https://github.com/traccar/traccar)** for GPS tracking and vehicle telemetry.
-* **[ThingsBoard](https://github.com/thingsboard/thingsboard)** for IoT telemetry, dashboards and vehicle/asset events.
-* **[Node-RED](https://github.com/node-red/node-red)** for integrating vehicle sensors, APIs, MQTT and maintenance workflows.
-* **[Mosquitto](https://github.com/eclipse-mosquitto/mosquitto)** for lightweight MQTT-based telemetry.
-* **[openMAINT](https://github.com/openmaint/openmaint)** for maintenance and asset-management concepts.
-* **[ERPNext](https://github.com/frappe/erpnext)** for accounting, inventory, procurement and enterprise integration.
-* **[Frappe Framework](https://github.com/frappe/frappe)** for developing custom fleet-management modules.
-* **[GLPI](https://github.com/glpi-project/glpi)** for asset, ticket and maintenance-style workflows.
-* **[Snipe-IT](https://github.com/snipe/snipe-it)** for asset lifecycle and assignment management.
-* **[Grafana](https://github.com/grafana/grafana)** for fleet dashboards, uptime, maintenance KPIs and telemetry visualization.
-* **[PostgreSQL](https://github.com/postgres/postgres)** for the core relational fleet database.
-* **[InfluxDB](https://github.com/influxdata/influxdb)** for high-volume time-series telemetry and vehicle sensor data.
-
-## Recommended Open-Source Vehicle Maintenance Stack
-
-For organizations wanting to build an **open-source alternative to Fleetio, Whip Around, AUTOsist, MaintainX Fleet, AssetWorks, ManagerPlus, RTA Fleet, Fiix, FleetWave or Simply Fleet**, a practical architecture could combine:
-
-**Fleet / Vehicle Management**
-
-`OpenFleet / FleetMS / Fleetbase FleetOps`
-
-↓
-
-**Vehicle Master Data**
-
-`Vehicles + Trailers + Equipment + Drivers + Documents + Registration + Insurance + Warranty`
-
-↓
-
-**Preventive Maintenance**
-
-`Time + Mileage + Engine Hours + Usage + OEM Service Intervals`
-
-↓
-
-**Inspections**
-
-`DVIR + Safety Checklists + Pre-Trip + Post-Trip + Defect Detection`
-
-↓
-
-**Maintenance Execution**
-
-`Issues → Work Orders → Technician Assignment → Parts → Labor → Repair → Approval → Closure`
-
-↓
-
-**Inventory**
-
-`Parts + Warehouses + Vendors + Purchase Orders + Reorder Levels`
-
-↓
-
-**Fuel & Operating Costs**
-
-`Fuel Transactions + Mileage + Consumption + Cost per km/mile + TCO`
-
-↓
-
-**Telematics**
-
-`Traccar + GPS + OBD-II + CAN Bus + MQTT`
-
-↓
-
-**IoT / Integration Layer**
-
-`Node-RED + Mosquitto + REST APIs + Webhooks`
-
-↓
-
-**Enterprise Layer**
-
-`ERPNext / Frappe + Accounting + Procurement + HR + Finance`
-
-↓
-
-**Analytics**
-
-`PostgreSQL + InfluxDB + Grafana`
-
-A particularly strong open-source combination is:
-
-**OpenFleet + Traccar + Fleetbase FleetOps + ERPNext + Node-RED + Mosquitto + PostgreSQL + Grafana**
-
-For a simpler deployment, the stack could be:
-
-**FleetMS + PostgreSQL + Traccar + Grafana**
-
-The core architecture should maintain a clear separation between:
-
-`Vehicle Data → Inspection → Defect → Work Order → Maintenance → Parts/Labor → Cost → Vehicle History`
-
-This allows a failed inspection to automatically generate a maintenance issue, convert that issue into a work order, reserve required parts, assign a technician, record labor and parts costs, update the vehicle's maintenance history and feed the resulting information into fleet-level analytics.
-
-Modern commercial systems increasingly follow this same workflow. Fleetio, for example, links issues, service tasks, work orders, service entries and maintenance schedules, while MaintainX supports meter-based maintenance and automated work-order generation. [Fleetio Maintenance](https://help.fleetio.com/en_US/maintenance) | [MaintainX Fleet](https://www.getmaintainx.com/industries/fleet-management)
-
-### Suggested Open-Source Data Model
-
-```text
-Vehicle
- ├── Driver Assignment
- ├── Documents
- ├── Insurance
- ├── Registration
- ├── Warranty
- ├── Odometer / Engine Hours
- ├── Inspections
- │    └── Defects
- │         └── Work Orders
- │              ├── Labor
- │              ├── Parts
- │              ├── Vendor
- │              ├── Technician
- │              └── Cost
- ├── Preventive Maintenance Plans
- ├── Fuel Transactions
- ├── Telematics
- └── Complete Maintenance History
-```
-
-The most important design principle should be:
-
-> **Every vehicle should have a single, auditable lifecycle record from acquisition through maintenance and eventual disposal.**
-
-An open platform should therefore make it possible to export and integrate:
-
-`Vehicle → Odometer → Inspection → Defect → Work Order → Parts → Labor → Invoice → Cost → Downtime → Maintenance History`
-
-through documented APIs rather than locking the organization's operational data into a proprietary database.
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, GitHub/official link, 1–2 sentence description, and whether it is **fleet maintenance, fleet management, CMMS, telematics, asset management or an integration building block**.
-4. Clearly distinguish between a **complete fleet-maintenance platform** and a **component that can be used to build one**.
-5. Prefer actively maintained projects with clear licenses and documentation.
-6. Mention the license where it materially affects self-hosting or commercial use.
-7. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-* This is a **community-curated** list — not exhaustive and not an endorsement.
-* Commercial fleet-management platforms often combine maintenance, telematics, inspections, fuel, compliance, driver management and financial functions.
-* **Open-source vehicle-maintenance software is considerably smaller in number and maturity than the commercial fleet-management market.**
-* Some GitHub projects listed here are early-stage, experimental, educational or community-maintained and should not automatically be considered production-ready.
-* **OpenFleet, FleetMS, Fleetbase FleetOps, VSD Fleet Management System and Vehicle Manager have different scopes and maturity levels.**
-* Telematics systems such as Traccar provide tracking and telemetry but are not complete vehicle-maintenance systems.
-* CMMS/EAM systems such as MaintainX, Fiix and openMAINT can support fleet maintenance but are not necessarily fleet-specific.
-* Vehicle maintenance systems handling safety-critical information should implement appropriate authentication, authorization, audit logging, backups, encryption, disaster recovery and access controls.
-* Vehicle data from GPS, OBD-II and telematics devices may have privacy and regulatory implications.
-* Always verify project activity, license terms, protocol support, integrations and production readiness before deploying an open-source component.
+# 🚗 Awesome Vehicle Maintenance Platform Ecosystem 🛠️
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Vehicle Maintenance Platform Ecosystem Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Vehicle-Maintenance-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Vehicle-Maintenance-Platform?style=flat-square&color=gold" alt="Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Vehicle-Maintenance-Platform/network"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Vehicle-Maintenance-Platform?style=flat-square&color=blue" alt="Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Vehicle-Maintenance-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Vehicle-Maintenance-Platform/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 ---
 
-**Made for fleet managers, workshop managers, mechanics, transportation companies, logistics operators, municipal fleets, field-service organizations, developers, and fleet-technology researchers.**
-Let's make vehicle maintenance more **open, interoperable, self-hostable, data-driven, predictive, and automation-ready**.
+### 🌐 Curated Directory of SaaS Products & Open-Source Software for Modern Fleet Management
+**Focus Areas:** *Fleet Maintenance Management, Preventive Maintenance (PM), Work Orders, Digital Vehicle Inspections (DVIR), CMMS, Telematics, Fuel Tracking, Parts Inventory, OBD-II/CAN Bus Diagnostics & Complete Vehicle Lifecycle Management.*
+
+📅 **Last updated:** August 2026
+
+---
+
+## 📖 Overview & SEO Summary
+
+This repository tracks top **SaaS/hosted commercial platforms** and **self-hostable open-source projects** for **Vehicle Maintenance Management**, **Fleet Operations**, **Computerized Maintenance Management Systems (CMMS)**, **Predictive Maintenance**, **Digital Inspections**, **Work Orders**, **Spare Parts Inventory**, **Fuel Economy Logging**, and **Total Cost of Ownership (TCO)**.
+
+These systems empower fleet managers, mechanics, logistics operators, municipalities, transport companies, and developers to oversee vehicles and equipment from initial procurement and onboarding through preventive servicing, defect resolution, compliance, and end-of-life disposal.
+
+### 🔍 Key Capabilities Evaluated
+- 🛠️ **Preventive Maintenance (PM):** Time-, mileage-, engine-hour-, and condition-triggered service intervals.
+- 📋 **Digital Inspections & DVIR:** Custom electronic pre-trip and post-trip safety checklists with defect routing.
+- ⚡ **Work Order Automation:** Automated technician assignment, labor tracking, parts reservation, and sign-offs.
+- 📦 **Parts & Inventory Control:** Stock level tracking, purchase orders, reorder thresholds, and vendor logs.
+- ⛽ **Fuel & Cost Tracking:** Transaction imports, MPG / L/100km analysis, cost-per-mile benchmarks, and TCO.
+- 📡 **Telematics & Diagnostics:** GPS tracking, OBD-II / J1939 fault codes, geofencing, and driver behavior analytics.
+
+---
+
+## 📑 Table of Contents
+
+- [🏢 SaaS / Hosted Commercial Platforms](#-saas--hosted-commercial-platforms)
+- [⭐ Open-Source GitHub Projects](#-open-source-github-projects)
+  - [🚀 Full Fleet Maintenance & Vehicle Management Platforms](#-full-fleet-maintenance--vehicle-management-platforms)
+  - [📱 Vehicle Maintenance Loggers & Fuel Trackers](#-vehicle-maintenance-loggers--fuel-trackers)
+  - [📡 Vehicle Telematics, GPS Tracking & OBD Data](#-vehicle-telematics-gps-tracking--obd-data)
+  - [🌐 IoT, Edge Computing & Telemetry Automation](#-iot-edge-computing--telemetry-automation)
+  - [🏢 CMMS, Asset Management & ERP Foundations](#-cmms-asset-management--erp-foundations)
+  - [📊 Analytics, Time-Series & Visualization](#-analytics-time-series--visualization)
+- [🏗️ Recommended Open-Source Vehicle Maintenance Architecture](#️-recommended-open-source-vehicle-maintenance-architecture)
+- [🧱 Open-Source Fleet Lifecycle Data Model](#-open-source-fleet-lifecycle-data-model)
+- [📈 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+---
+
+## 🏢 SaaS / Hosted Commercial Platforms
+
+*Commercial enterprise and cloud fleet maintenance platforms ranked in **descending order by company scale (market valuation / parent company market cap / annual revenue)**.*
+
+| Platform | Scale / Valuation / Revenue | Description / Focus | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Verizon Connect](https://www.verizonconnect.com/)** | **~$170B+ Market Cap** (Parent: Verizon Communications / ~$134B Revenue) | Enterprise fleet management and connected telematics platform supporting GPS vehicle tracking, maintenance alerts, digital DVIR inspections, and driver workflows. | **~$20–$30 / vehicle / month** (Reveal Starter plan; typically 36-month contract) | No permanent free tier; **30-day pilot / trial** available upon request with hardware shipment |
+| **[AssetWorks Fleet](https://www.assetworks.com/)** | **~$60B+ Market Cap** (Parent: Constellation Software / ~$8.4B Revenue) | Enterprise fleet management ecosystem designed for government, public sector, transit, education, and heavy commercial fleets, covering lifecycle, work orders, fuel, and compliance. | **~$3,000 / month** base contract benchmark (~$36,000–$50,000/year enterprise deployment) | No permanent free tier; **Guided product demo & custom pilot** available upon request (no self-serve free trial) |
+| **[Fiix](https://www.fiixsoftware.com/)** | **~$30B+ Market Cap** (Parent: Rockwell Automation / ~$8.5B Revenue; Acquired for ~$300M+) | Cloud CMMS platform supporting preventive, corrective, and condition-based maintenance, work orders, asset lifecycle tracking, parts inventory, and maintenance intelligence. | **$45 / user / month** (Basic tier billed annually) | **Free Forever plan** (up to 3 users, max 25 active PM tasks, ~20 tracked assets; community support only) |
+| **[Samsara Fleet](https://www.samsara.com/)** | **~$22.8B+ Market Cap** (NYSE: IOT / ~$1.62B Annual Revenue) | Connected Operations Cloud combining vehicle telematics, real-time diagnostics, electronic inspections, automated maintenance workflows, and AI safety cameras. | **~$27–$33 / vehicle / month** (Software subscription; ~$99–$148 gateway hardware; 3-year contract) | **30-day free trial** (includes hardware evaluation with risk-free return window; no permanent free tier) |
+| **[MaintainX Fleet](https://www.getmaintainx.com/industries/fleet-management)** | **~$3.6B Valuation** (Acquired by Autodesk in 2026 / ~$135M+ ARR) | Mobile-first fleet CMMS platform providing work orders, meter-based preventive maintenance triggers, asset health history, inspections, and parts inventory control. | **$20 / user / month** (Essential tier billed annually; $25/mo monthly; free unlimited requesters) | **Free Forever plan** (Basic tier: unlimited work orders, up to 2 active repeating PMs, 1-month analytics) or **30-day free trial** on paid tiers |
+| **[Geotab](https://www.geotab.com/)** | **~$3B+ Valuation** (Unicorn / ~$1.0B+ ARR / 6M+ connected vehicles) | Global telematics and connected vehicle ecosystem providing engine diagnostics, maintenance insights, predictive maintenance rules, and driver management. | **~$30–$50 / vehicle / month** (Software + GO hardware bundle via authorized resellers) | **30-day hardware pilot / demo kit** available via authorized resellers (no self-serve free trial or permanent free tier) |
+| **[Motive](https://gomotive.com/)** | **~$2.9B Valuation** (~$501M ARR / 100k+ customers) | Integrated fleet operations platform combining AI dashcams, telematics, automated maintenance workflows, driver safety coaching, and ELD compliance. | **~$25 / vehicle / month** (Base software subscription; 12-month minimum; hardware gateway separate) | **Free Driver App & Workforce Management (WFM) tier** for basic logging; **Interactive demo / pilot** on request |
+| **[Fleetio](https://www.fleetio.com/)** | **~$1.5B+ Valuation** (Unicorn / ~$75M+ ARR / $624M funding) | Comprehensive cloud fleet management and maintenance system covering vehicles, preventive maintenance, inspections, work orders, service history, parts, and fuel. | **$4 / vehicle / month** (Essential tier billed annually; $5/mo monthly; 5-vehicle minimum) | **14-day free trial** (full access, no credit card required; no permanent free tier) |
+| **[ManagerPlus](https://managerplus.com/)** | **~$1B+ Valuation** (Parent: Eptura / ~$100M+ ARR) | Asset and maintenance management platform providing PM scheduling, work orders, inspection tracking, parts inventory, and mixed-fleet lifecycle history. | **$85 / user / month** (Lightning Plus tier billed annually; free unlimited work requesters) | **14-day free trial / guided pilot** available upon request (no permanent free tier) |
+| **[Limble CMMS](https://limblecmms.com/)** | **~$450M Valuation** (~$40M+ ARR / $113M total funding) | Cloud CMMS engineered for preventive maintenance, work orders, asset health, digital checklists, spare parts management, and fleet maintenance analytics. | **$28 / user / month** (Standard tier billed annually; free unlimited work requesters) | **14-day free trial** (full feature access, no credit card required; no permanent free tier) |
+| **[Fleet Complete](https://www.fleetcomplete.com/)** | **~$450M Market Cap** (Parent: Powerfleet / ~$300M Annual Revenue) | Connected fleet and asset management platform offering vehicle GPS tracking, maintenance alerts, driver management, and connected IoT sensors. | **~$20–$45 / vehicle / month** (Base tracking and maintenance packages) | No permanent free tier; **Guided live demo & evaluation pilot** available upon request (no self-serve free trial) |
+| **[UpKeep](https://www.onupkeep.com/)** | **~$258M Valuation** (~$25M+ ARR / $48M+ funding) | Mobile-first CMMS platform for work orders, preventive maintenance schedules, asset tracking, inventory costing, time tracking, and fleet upkeep workflows. | **$24 / user / month** (Essential tier billed annually; free unlimited view-only/requester users) | **7-day free trial** (full feature access, no credit card required; no permanent free tier) |
+| **[Whip Around](https://whiparound.com/)** | **~$100M+ Valuation** (Acquired by Accel-KKR in 2026 / ~$10M+ ARR) | Cloud fleet inspection and maintenance platform focused on digital DVIR checklists, defect tracking, work orders, compliance, and asset tracking. | **$5 / asset / month** (Standard tier billed annually) | **Free Forever plan** (Basic tier: limited to 1 asset and 1 user) or **7-day free trial** for Pro tier (no credit card required) |
+| **[Chevin FleetWave](https://www.chevinfleet.com/)** | **~$20M+ Revenue** (Parent: Jonas Software / Constellation Software) | Enterprise fleet management software covering vehicle lifecycle, workshop operations, compliance, driver management, fuel, and cost analytics. | **$3.00–$5.00 / vehicle / month** (FleetWave Core tier; additional assets at ~$0.50/month) | **14-day free trial** available upon request (no credit card required; no permanent free tier) |
+| **[AUTOsist](https://autosist.com/)** | **~$15M–$25M Valuation** (~$5M Annual Recurring Revenue) | Cloud fleet maintenance platform covering preventive maintenance, custom digital inspections, service records, work orders, fuel, inventory, and documents. | **$6 / vehicle / month** (Maintenance package billed annually; 5-vehicle minimum) | **14-day free trial** (full feature access, no credit card required; no permanent free tier) |
+| **[RTA Fleet](https://www.rtafleet.com/)** | **~$15M–$20M Valuation** (~$5M Annual Recurring Revenue) | Dedicated fleet management and workshop software covering preventive maintenance schedules, work orders, parts inventory, fuel, labor, and asset history. | **$6 / asset / month** (Pro tier billed annually; 100-asset minimum, includes unlimited users) | No permanent free tier; **Custom live demo & pilot program** available upon request (no self-serve free trial) |
+| **[Fleet Maintenance Pro](https://www.fleetmaintenancepro.com/)** | **~$5M–$8M Revenue** (Innovative Maintenance Systems - IMS) | Fleet maintenance software focused on preventive maintenance tracking, automated work orders, repair history, parts, labor, and fleet cost reporting. | **$30–$35 / user / month** (Cloud tier) or **$649 one-time** perpetual desktop license | **30-day free trial** (full evaluation access for desktop or cloud; no permanent free tier) |
+| **[Simply Fleet](https://www.simplyfleet.app/)** | **~$3M–$5M Valuation** (~$1.5M Annual Recurring Revenue) | Lightweight fleet maintenance app for vehicle tracking, preventive maintenance, digital inspections, service history, expenses, and document management. | **$2 / vehicle / month** (Essential tier billed annually at $20/vehicle/year) | **Free Forever plan** (up to 5 vehicles and 3 users) or **14-day free trial** for paid tiers (no credit card required) |
+
+---
+
+## ⭐ Open-Source GitHub Projects
+
+*Every repository includes a live social star badge linking directly to its GitHub stargazers page. Sorted by star count in descending order within each category.*
+
+### 🚀 Full Fleet Maintenance & Vehicle Management Platforms
+
+* **[frappe/erpnext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)
+  **Comprehensive open-source ERP with built-in Vehicle & Fleet Management.**
+  Full-featured ERP solution with comprehensive vehicle master records, fuel logging, maintenance tracking, insurance/registration logs, expense claims, driver assignments, and integrated accounting. Licensed under GPL-3.0.
+
+* **[hargata/lubelog](https://github.com/hargata/lubelog)** [![GitHub stars](https://img.shields.io/github/stars/hargata/lubelog?style=social&color=white)](https://github.com/hargata/lubelog/stargazers)
+  **Modern self-hosted vehicle maintenance, service records & fuel economy logger.**
+  Popular, self-hosted web application for tracking vehicle repairs, service intervals, maintenance reminders, fuel mileage (MPG/L100km), EV energy consumption, and document receipts. Available via Docker and community app stores. Licensed under MIT.
+
+* **[fleetbase/fleetbase](https://github.com/fleetbase/fleetbase)** [![GitHub stars](https://img.shields.io/github/stars/fleetbase/fleetbase?style=social&color=white)](https://github.com/fleetbase/fleetbase/stargazers)
+  **Open-source logistics, routing & fleet management infrastructure.**
+  Modular logistics and transport management platform providing the foundational core for vehicle fleets, real-time driver tracking, transport orders, dispatch, and custom workflow automations. Licensed under MIT.
+
+* **[mikaelacaron/Basic-Car-Maintenance](https://github.com/mikaelacaron/Basic-Car-Maintenance)** [![GitHub stars](https://img.shields.io/github/stars/mikaelacaron/Basic-Car-Maintenance?style=social&color=white)](https://github.com/mikaelacaron/Basic-Car-Maintenance/stargazers)
+  **Open-source iOS application for tracking personal vehicle maintenance.**
+  Clean, beginner-friendly Swift/iOS app designed for logging maintenance events, service records, and scheduled vehicle checkups. Licensed under Apache-2.0.
+
+* **[dannymcc/may](https://github.com/dannymcc/may)** [![GitHub stars](https://img.shields.io/github/stars/dannymcc/may?style=social&color=white)](https://github.com/dannymcc/may/stargazers)
+  **Self-hosted multi-vehicle fuel and maintenance expense dashboard.**
+  Clean web dashboard for logging vehicle fuel fill-ups, calculating mileage efficiency, and archiving maintenance receipts across multiple vehicles and drivers. Licensed under MIT.
+
+* **[awslabs/aws-fleet-predictive-maintenance](https://github.com/awslabs/aws-fleet-predictive-maintenance)** [![GitHub stars](https://img.shields.io/github/stars/awslabs/aws-fleet-predictive-maintenance?style=social&color=white)](https://github.com/awslabs/aws-fleet-predictive-maintenance/stargazers)
+  **Predictive maintenance pipeline for commercial vehicle fleets.**
+  Reference architecture from AWS Labs using machine learning and vehicle sensor telemetry to forecast remaining useful life (RUL) and detect impending component failures. Licensed under Apache-2.0.
+
+* **[OCA/fleet](https://github.com/OCA/fleet)** [![GitHub stars](https://img.shields.io/github/stars/OCA/fleet?style=social&color=white)](https://github.com/OCA/fleet/stargazers)
+  **Odoo Community Association (OCA) Fleet Management Suite.**
+  Collection of modular open-source extensions for Odoo extending vehicle tracking, fuel logs, maintenance contracts, odometer checks, and driver assignments. Licensed under AGPL-3.0.
+
+* **[autodo-app/autodo](https://github.com/autodo-app/autodo)** [![GitHub stars](https://img.shields.io/github/stars/autodo-app/autodo?style=social&color=white)](https://github.com/autodo-app/autodo/stargazers)
+  **Flexible ToDo & preventive maintenance scheduler for vehicles.**
+  Intuitive task and reminder management app dedicated to tracking automotive maintenance schedules, fluid changes, and repair intervals. Licensed under MIT.
+
+* **[neuharthr/Fleetco](https://github.com/neuharthr/Fleetco)** [![GitHub stars](https://img.shields.io/github/stars/neuharthr/Fleetco?style=social&color=white)](https://github.com/neuharthr/Fleetco/stargazers)
+  **Web-based fleet maintenance system with PHP and MySQL.**
+  Lightweight fleet maintenance platform supporting vehicle records, service logs, work orders, and maintenance scheduling for smaller fleets. Licensed under GPL-2.0.
+
+* **[abhishekpatel946/Smart-Vehicle-Fleet-Manager](https://github.com/abhishekpatel946/Smart-Vehicle-Fleet-Manager)** [![GitHub stars](https://img.shields.io/github/stars/abhishekpatel946/Smart-Vehicle-Fleet-Manager?style=social&color=white)](https://github.com/abhishekpatel946/Smart-Vehicle-Fleet-Manager/stargazers)
+  **Smart vehicle fleet manager with maintenance and fuel monitoring.**
+  Application tracking vehicle speeding, fuel refills, maintenance schedules, accident alerts, and telemetry reporting through charts and interactive dashboards.
+
+* **[jmnda-dev/fleetms](https://github.com/jmnda-dev/fleetms)** [![GitHub stars](https://img.shields.io/github/stars/jmnda-dev/fleetms?style=social&color=white)](https://github.com/jmnda-dev/fleetms/stargazers)
+  **Dedicated open-source fleet maintenance & management platform.**
+  Modern AGPL-3.0 fleet maintenance software covering vehicles, digital inspections, defects, service groups, maintenance reminders, work orders, parts inventory, and fuel logging.
+
+* **[nelsonmpanju/Fleet-Management-System](https://github.com/nelsonmpanju/Fleet-Management-System)** [![GitHub stars](https://img.shields.io/github/stars/nelsonmpanju/Fleet-Management-System?style=social&color=white)](https://github.com/nelsonmpanju/Fleet-Management-System/stargazers)
+  **Open-source ERPNext/Frappe fleet management extension.**
+  Comprehensive fleet platform built for the Frappe/ERPNext ecosystem. Handles vehicle profiles, trips, cargo, fuel logs, breakdown events, maintenance workflows, and financial records. Licensed under GPL-3.0.
+
+* **[fleetbase/fleetops](https://github.com/fleetbase/fleetops)** [![GitHub stars](https://img.shields.io/github/stars/fleetbase/fleetops?style=social&color=white)](https://github.com/fleetbase/fleetops/stargazers)
+  **Fleet operations and maintenance layer extension.**
+  Extends Fleetbase with vehicle maintenance history, work orders, preventive maintenance scheduling, parts, warranties, and telematics device connectivity. Licensed under MIT.
+
+* **[SuyashT0911/Fleet-management-system-](https://github.com/SuyashT0911/Fleet-management-system-)** [![GitHub stars](https://img.shields.io/github/stars/SuyashT0911/Fleet-management-system-?style=social&color=white)](https://github.com/SuyashT0911/Fleet-management-system-/stargazers)
+  **Full-stack Java & React fleet management application.**
+  Reference architecture covering vehicles, drivers, trips, maintenance logs, fuel tracking, and analytics dashboards with a Java backend and React frontend.
+
+* **[warrengalyen/OpenFleet](https://github.com/warrengalyen/OpenFleet)** [![GitHub stars](https://img.shields.io/github/stars/warrengalyen/OpenFleet?style=social&color=white)](https://github.com/warrengalyen/OpenFleet/stargazers)
+  **Enterprise open-source fleet maintenance system built with .NET 8 & React.**
+  Full-stack platform providing vehicle master data, work orders, digital inspections, preventive maintenance, spare parts inventory, vendor management, and audit logging.
+
+* **[pablonortiz/vehicle-manager](https://github.com/pablonortiz/vehicle-manager)** [![GitHub stars](https://img.shields.io/github/stars/pablonortiz/vehicle-manager?style=social&color=white)](https://github.com/pablonortiz/vehicle-manager/stargazers)
+  **Cross-platform Flutter application for vehicle maintenance management.**
+  Mobile and desktop app for logging vehicles, inspections, mileage, insurance renewals, service history, invoices, and photo records. Licensed under MIT.
+
+* **[tolgatasci/fleet-management-system](https://github.com/tolgatasci/fleet-management-system)** [![GitHub stars](https://img.shields.io/github/stars/tolgatasci/fleet-management-system?style=social&color=white)](https://github.com/tolgatasci/fleet-management-system/stargazers)
+  **Laravel & Vue fleet management system.**
+  System covering vehicles, maintenance records, digital inspections, work orders, drivers, real-time GPS tracking, and operational reporting.
+
+* **[navodya0/FMS](https://github.com/navodya0/FMS)** [![GitHub stars](https://img.shields.io/github/stars/navodya0/FMS?style=social&color=white)](https://github.com/navodya0/FMS/stargazers)
+  **Laravel fleet management system.**
+  Clean Laravel-based system focused on vehicle management, periodic inspections, rentals, and maintenance workflows.
+
+---
+
+### 📡 Vehicle Telematics, GPS Tracking & OBD Data
+
+* **[teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)** [![GitHub stars](https://img.shields.io/github/stars/teslamate-org/teslamate?style=social&color=white)](https://github.com/teslamate-org/teslamate/stargazers)
+  **Self-hosted telemetry, efficiency & battery health logger for electric vehicles.**
+  Popular self-hosted data logger written in Elixir. Records driving efficiency, charging history, battery degradation, tire wear reminders, and maintenance logs into PostgreSQL/Grafana. Licensed under MIT.
+
+* **[traccar/traccar](https://github.com/traccar/traccar)** [![GitHub stars](https://img.shields.io/github/stars/traccar/traccar?style=social&color=white)](https://github.com/traccar/traccar/stargazers)
+  **Industry-standard open-source GPS tracking server.**
+  Enterprise-grade GPS tracking platform supporting 200+ communication protocols and thousands of GPS/OBD hardware models. Streams live vehicle locations, speed, fuel sensor data, and CAN bus telemetry. Licensed under Apache-2.0.
+
+* **[traccar/traccar-web](https://github.com/traccar/traccar-web)** [![GitHub stars](https://img.shields.io/github/stars/traccar/traccar-web?style=social&color=white)](https://github.com/traccar/traccar-web/stargazers)
+  **Modern React web frontend for Traccar GPS server.**
+  Official modern web interface for Traccar featuring live map tracking, geofencing, route playback, driver dispatch, and vehicle telemetry reports. Licensed under Apache-2.0.
+
+* **[owntracks/recorder](https://github.com/owntracks/recorder)** [![GitHub stars](https://img.shields.io/github/stars/owntracks/recorder?style=social&color=white)](https://github.com/owntracks/recorder/stargazers)
+  **Lightweight private location tracking backend.**
+  Self-hosted server to store and visualize location data published by mobile devices and vehicle tracking beacons via MQTT or HTTP. Licensed under GPL-2.0.
+
+---
+
+### 🌐 IoT, Edge Computing & Telemetry Automation
+
+* **[node-red/node-red](https://github.com/node-red/node-red)** [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)
+  **Low-code flow-based integration platform for IoT and vehicle hardware.**
+  Connects OBD-II scanners, GPS hardware, MQTT brokers, REST APIs, databases, and maintenance work order pipelines through visual flow-based programming. Licensed under Apache-2.0.
+
+* **[thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)** [![GitHub stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers)
+  **Open-source IoT platform for vehicle telemetry and diagnostics.**
+  High-scalability IoT platform for collecting CAN bus and sensor telemetry, building fleet dashboard widgets, processing alarm thresholds, and triggering automated maintenance webhooks. Licensed under Apache-2.0.
+
+* **[eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-mosquitto/mosquitto?style=social&color=white)](https://github.com/eclipse-mosquitto/mosquitto/stargazers)
+  **Lightweight MQTT messaging broker.**
+  High-performance MQTT broker engineered to route real-time telemetry from connected vehicles and in-vehicle IoT hardware to backend servers. Licensed under EPL-2.0.
+
+* **[eclipse-kura/kura](https://github.com/eclipse-kura/kura)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-kura/kura?style=social&color=white)](https://github.com/eclipse-kura/kura/stargazers)
+  **Open-source IoT edge computing framework for telematics gateways.**
+  Java/OSGi-based edge framework for vehicle-mounted gateways to read CAN bus, process OBD diagnostics locally, and transmit telemetry securely. Licensed under EPL-2.0.
+
+---
+
+### 🏢 CMMS, Asset Management & ERP Foundations
+
+* **[snipe/snipe-it](https://github.com/snipe/snipe-it)** [![GitHub stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers)
+  **Open-source asset management system.**
+  Widely used asset management software with robust check-in/check-out, driver assignments, QR code generation, license tracking, warranty dates, and audit history. Licensed under AGPL-3.0.
+
+* **[frappe/frappe](https://github.com/frappe/frappe)** [![GitHub stars](https://img.shields.io/github/stars/frappe/frappe?style=social&color=white)](https://github.com/frappe/frappe/stargazers)
+  **Full-stack Python & JS web framework for enterprise fleet apps.**
+  Provides built-in role-based permissions, automated REST APIs, background job queues, workflows, document attachments, and reporting for custom fleet apps. Licensed under MIT.
+
+* **[glpi-project/glpi](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)
+  **Open-source IT & physical asset management and service desk.**
+  Full-featured ticket, work order, contract, and asset management platform adaptable for workshop job cards and maintenance tracking. Licensed under GPL-3.0.
+
+---
+
+### 📊 Analytics, Time-Series & Visualization
+
+* **[grafana/grafana](https://github.com/grafana/grafana)** [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)
+  **Open and composable observability and fleet metrics dashboard.**
+  Industry-leading platform for visualizing fleet health metrics, downtime, maintenance KPIs, fuel consumption curves, and real-time engine telemetry. Licensed under AGPL-3.0.
+
+* **[postgres/postgres](https://github.com/postgres/postgres)** [![GitHub stars](https://img.shields.io/github/stars/postgres/postgres?style=social&color=white)](https://github.com/postgres/postgres/stargazers)
+  **World's most advanced open-source relational database.**
+  The gold-standard database engine for fleet master data, work orders, audit trails, and geospatial vehicle tracking queries with PostGIS. Licensed under PostgreSQL License.
+
+* **[influxdata/influxdb](https://github.com/influxdata/influxdb)** [![GitHub stars](https://img.shields.io/github/stars/influxdata/influxdb?style=social&color=white)](https://github.com/influxdata/influxdb/stargazers)
+  **High-performance time-series database.**
+  Engineered for storing high-frequency sensor telemetry, OBD speed/RPM logs, GPS coordinates, and temperature readouts from vehicle sensors. Licensed under MIT.
+
+---
+
+## 🏗️ Recommended Open-Source Vehicle Maintenance Architecture
+
+To build a **fully open-source, vendor-independent alternative** to commercial platforms like Fleetio, Samsara, MaintainX, or Whip Around, consider the following architecture:
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                       🖥️ Web & Mobile Frontend                             │
+│       OpenFleet UI / LubeLogger / FleetMS / Traccar Web / Grafana           │
+└──────────────────────────────────────┬──────────────────────────────────────┘
+                                       │ REST / GraphQL / WebSockets
+┌──────────────────────────────────────▼──────────────────────────────────────┐
+│                    🚗 Core Fleet Maintenance Layer                         │
+│  • Vehicle Profiles & Specs      • Preventive Maintenance (PM) Engine       │
+│  • Digital DVIR Inspections      • Work Order Management & Job Cards        │
+│  • Spare Parts & Stock Levels    • Labor Hours & Repair Invoices            │
+│  • Fuel & Charging Logs          • Total Cost of Ownership (TCO)            │
+│                  (OpenFleet / FleetMS / Fleetbase FleetOps)                 │
+└───────────────────┬─────────────────────────────────────┬───────────────────┘
+                    │                                     │
+┌───────────────────▼───────────────┐     ┌───────────────▼───────────────────┐
+│     📡 Telematics & Tracking      │     │       🏢 Enterprise Core          │
+│  • GPS Real-Time Positioning      │     │  • Accounting & Cost Centers      │
+│  • OBD-II / J1939 Engine Codes    │     │  • Procurement & Purchase Orders  │
+│  • Geofencing & Odometer Sync     │     │  • Driver HR & Payroll Records    │
+│  • Speed & Harsh Braking Alerts   │     │  • Compliance & Insurance Docs    │
+│        (Traccar / TeslaMate)      │     │        (ERPNext / Frappe)         │
+└───────────────────┬───────────────┘     └───────────────┬───────────────────┘
+                    │                                     │
+┌───────────────────▼─────────────────────────────────────▼───────────────────┐
+│                       ⚡ IoT & Event Integration Hub                        │
+│             Node-RED (Workflows) + Eclipse Mosquitto (MQTT)                 │
+└──────────────────────────────────────┬──────────────────────────────────────┘
+                                       │
+┌──────────────────────────────────────▼──────────────────────────────────────┐
+│                        💾 Data & Analytics Layer                            │
+│  • Relational Store: PostgreSQL + PostGIS                                   │
+│  • Time-Series Telemetry: InfluxDB                                          │
+│  • Visual Dashboards: Grafana                                               │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🧱 Open-Source Fleet Lifecycle Data Model
+
+```text
+Vehicle (Master Asset)
+ ├── 📄 Documentation (Registration, Title, Insurance, Warranty, Leases)
+ ├── 👤 Driver & Operator Assignment History
+ ├── ⏱️ Usage Meters (Odometer, Engine Hours, EV Battery Health / SoC)
+ ├── 📋 Digital Inspections & DVIR
+ │    └── ⚠️ Defect Logs (Pass/Fail Checks, Photos, Severity Ratings)
+ │         └── 🛠️ Work Orders (Job Cards)
+ │              ├── 👨‍🔧 Assigned Technician & Labor Hours
+ │              ├── 📦 Parts Requisition & Inventory Deductions
+ │              ├── 🏢 External Service Vendor & Invoices
+ │              └── 💵 Total Maintenance Cost
+ ├── 📅 Preventive Maintenance (PM) Plans (Interval triggers: Time / Odometer / Hours)
+ ├── ⛽ Fuel & Charging Logs (Gallons/Litres, Fuel Card Receipts, MPG Efficiency)
+ ├── 📡 Live Telematics & OBD-II Fault Codes (DTC Codes, Location, Speed, Idle Time)
+ └── 📊 Comprehensive Lifecycle Audit Trail (Procurement → Maintenance → Disposal)
+```
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Vehicle-Maintenance-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Vehicle-Maintenance-Platform&type=date&legend=top-left)
+
+---
+
+## 🤝 How to Contribute
+
+1. 🍴 **Fork the repository**.
+2. 🌿 Create a new feature branch (`git checkout -b feature/new-entry`).
+3. 📝 Add or update entries following the table/badge format.
+4. ⭐ Include: Name, official/GitHub link, live star badge (`style=social&color=white`), and an objective 1–2 sentence description.
+5. 🚀 Submit a Pull Request with a clear summary of additions.
+
+Contributions and community suggestions are always welcome! ⭐ **Star this repository** if you find it helpful.
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated** educational directory — not an endorsement of any listed service.
+- Commercial fleet management software often bundles proprietary hardware, cellular data SIMs, ELD compliance, and managed telematics.
+- Open-source tools vary in maturity; always audit code, security postures, backup mechanisms, and protocol support before production deployments.
+- Telematics data (GPS coordinates, driver tracking, and OBD metrics) carries privacy and regulatory responsibilities.
+
+---
+
+<p align="center">
+  <b>Built for Fleet Managers, Workshop Technicians, Mechanics, Logistics Operators, Developers, and Mobility Enthusiasts.</b><br/>
+  <i>Let's make vehicle maintenance more open, transparent, self-hostable, and data-driven.</i>
+</p>
