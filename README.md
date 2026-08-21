@@ -35,62 +35,26 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-* **[Fleetio](https://www.fleetio.com/)**
-  Comprehensive cloud fleet-management and maintenance platform covering vehicles, equipment, preventive maintenance, inspections, issues, work orders, service history, parts, fuel, expenses, compliance, reporting and fleet lifecycle management.
-
-* **[Whip Around](https://whiparound.com/)**
-  Cloud fleet-management platform focused on digital inspections, maintenance, compliance, defects, work orders, asset tracking and parts/inventory management.
-
-* **[AUTOsist](https://autosist.com/)**
-  Fleet-management and maintenance platform covering preventive maintenance, digital inspections, service history, work orders, fuel, inventory, documents and reporting.
-
-* **[MaintainX Fleet](https://www.getmaintainx.com/industries/fleet-management)**
-  Fleet-oriented CMMS platform providing work orders, preventive maintenance, meter-based service triggers, asset health/history, inspections, parts inventory and maintenance reporting.
-
-* **[AssetWorks Fleet](https://www.assetworks.com/)**
-  Enterprise fleet-management ecosystem designed for government, education, transportation and commercial organizations, covering vehicle lifecycle, maintenance, work orders, parts, fuel, inventory, compliance and fleet operations.
-
-* **[ManagerPlus](https://managerplus.com/)**
-  Asset and maintenance-management platform providing preventive maintenance, work orders, inspections, parts, inventory, asset history and maintenance reporting. Useful for organizations managing mixed fleets and physical assets.
-
-* **[RTA Fleet](https://www.rtafleet.com/)**
-  Fleet-management and maintenance software designed for organizations managing vehicles and equipment. Covers preventive maintenance, work orders, inspections, parts, fuel, labor, asset history and fleet reporting.
-
-* **[Fiix](https://www.fiixsoftware.com/)**
-  Cloud CMMS platform supporting preventive, corrective and condition-based maintenance, work orders, asset management, parts inventory, scheduling and maintenance analytics. It can be applied to fleet and vehicle maintenance environments.
-
-* **[Chevin FleetWave](https://www.chevinfleet.com/)**
-  Enterprise fleet-management platform covering vehicle lifecycle, maintenance, compliance, driver management, fuel, costs, workshops, assets and fleet analytics.
-
-* **[Simply Fleet](https://www.simplyfleet.app/)**
-  Fleet-management and maintenance platform designed to simplify vehicle tracking, preventive maintenance, inspections, service records, expenses, documents and fleet administration.
-
-* **[Fleet Maintenance Pro](https://www.fleetmaintenancepro.com/)**
-  Fleet maintenance management software focused on preventive maintenance, work orders, vehicle history, parts, labor, fuel and fleet-cost tracking.
-
-* **[FleetWave](https://www.chevinfleet.com/)**
-  Enterprise fleet-management platform from Chevin supporting vehicle lifecycle, maintenance, compliance, workshop operations, costs and fleet analytics.
-
-* **[Samsara Fleet](https://www.samsara.com/)**
-  Connected-operations platform combining telematics, vehicle diagnostics, inspections, maintenance workflows, driver operations, safety and fleet visibility.
-
-* **[Geotab](https://www.geotab.com/)**
-  Telematics and fleet-management ecosystem providing vehicle data, diagnostics, maintenance-related insights, driver management and integrations through its connected-vehicle platform.
-
-* **[Verizon Connect](https://www.verizonconnect.com/)**
-  Fleet-management and telematics platform supporting vehicle tracking, maintenance-related workflows, inspections, driver operations and fleet analytics.
-
-* **[Motive](https://gomotive.com/)**
-  Fleet-management platform combining vehicle telematics, inspections, maintenance, driver workflows, safety and compliance capabilities.
-
-* **[Fleet Complete](https://www.fleetcomplete.com/)**
-  Connected fleet-management platform covering vehicle tracking, maintenance, asset management, driver operations and telematics.
-
-* **[Limble CMMS](https://limblecmms.com/)**
-  Cloud CMMS focused on preventive maintenance, work orders, asset history, inspections, parts and maintenance analytics. Suitable for fleet and mixed-asset maintenance environments.
-
-* **[UpKeep](https://www.onupkeep.com/)**
-  Mobile-first CMMS providing work orders, preventive maintenance, asset management, inspections, inventory, reporting and maintenance workflows that can be adapted to fleet operations.
+| Platform | Description / Focus | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Fleetio](https://www.fleetio.com/)** | Comprehensive cloud fleet-management and maintenance platform covering vehicles, equipment, preventive maintenance, inspections, issues, work orders, service history, parts, fuel, expenses, compliance, reporting and fleet lifecycle management. | **$4 / vehicle / month** (Essential tier billed annually; $5/vehicle/mo billed monthly; 5-vehicle minimum) | **14-day free trial** (full access, no credit card required; no permanent free tier) |
+| **[Whip Around](https://whiparound.com/)** | Cloud fleet-management platform focused on digital inspections, maintenance, compliance, defects, work orders, asset tracking and parts/inventory management. | **$5 / asset / month** (Standard tier billed annually) | **Free Forever plan** (Basic tier: limited to 1 asset and 1 user) or **7-day free trial** for Pro tier (no credit card required) |
+| **[AUTOsist](https://autosist.com/)** | Fleet-management and maintenance platform covering preventive maintenance, digital inspections, service history, work orders, fuel, inventory, documents and reporting. | **$6 / vehicle / month** (Maintenance package billed annually; 5-vehicle minimum) | **14-day free trial** (full access, no credit card required; no permanent free tier) |
+| **[MaintainX Fleet](https://www.getmaintainx.com/industries/fleet-management)** | Fleet-oriented CMMS platform providing work orders, preventive maintenance, meter-based service triggers, asset health/history, inspections, parts inventory and maintenance reporting. | **$20 / user / month** (Essential tier billed annually; $25/user/mo billed monthly; free unlimited work requesters) | **Free Forever plan** (Basic tier: unlimited work orders, up to 2 active repeating PMs, 1-month analytics history) or **30-day free trial** on paid tiers |
+| **[AssetWorks Fleet](https://www.assetworks.com/)** | Enterprise fleet-management ecosystem designed for government, education, transportation and commercial organizations, covering vehicle lifecycle, maintenance, work orders, parts, fuel, inventory, compliance and fleet operations. | **~$3,000 / month** base contract entry benchmark (~$36,000–$50,000/year enterprise deployment) | No permanent free tier; **Guided product demo & custom pilot** available upon request (no self-serve free trial) |
+| **[ManagerPlus](https://managerplus.com/)** | Asset and maintenance-management platform providing preventive maintenance, work orders, inspections, parts, inventory, asset history and maintenance reporting. Useful for organizations managing mixed fleets and physical assets. | **$85 / user / month** (Lightning Plus tier billed annually; free unlimited work requesters) | **14-day free trial / guided pilot** available upon request (no permanent free tier) |
+| **[RTA Fleet](https://www.rtafleet.com/)** | Fleet-management and maintenance software designed for organizations managing vehicles and equipment. Covers preventive maintenance, work orders, inspections, parts, fuel, labor, asset history and fleet reporting. | **$6 / asset / month** (Pro tier billed annually; 100-asset minimum, includes unlimited users) | No permanent free tier; **Custom live demo & pilot program** available upon request (no self-serve free trial) |
+| **[Fiix](https://www.fiixsoftware.com/)** | Cloud CMMS platform supporting preventive, corrective and condition-based maintenance, work orders, asset management, parts inventory, scheduling and maintenance analytics. It can be applied to fleet and vehicle maintenance environments. | **$45 / user / month** (Basic tier billed annually) | **Free Forever plan** (up to 3 users, max 25 active PM tasks, ~20 tracked assets; community support only) |
+| **[Chevin FleetWave](https://www.chevinfleet.com/)** | Enterprise fleet-management platform covering vehicle lifecycle, maintenance, compliance, driver management, fuel, costs, workshops, assets and fleet analytics. | **$3.00–$5.00 / vehicle / month** (FleetWave Core tier; additional assets at ~$0.50/month) | **14-day free trial** available upon request (no credit card required for trial; no permanent free tier) |
+| **[Simply Fleet](https://www.simplyfleet.app/)** | Fleet-management and maintenance platform designed to simplify vehicle tracking, preventive maintenance, inspections, service records, expenses, documents and fleet administration. | **$2 / vehicle / month** (Essential tier billed annually at $20/vehicle/year) | **Free Forever plan** (up to 5 vehicles and 3 users) or **14-day free trial** for paid tiers (no credit card required) |
+| **[Fleet Maintenance Pro](https://www.fleetmaintenancepro.com/)** | Fleet maintenance management software focused on preventive maintenance, work orders, vehicle history, parts, labor, fuel and fleet-cost tracking. | **$30–$35 / user / month** (Cloud tier) or **$649 one-time** perpetual desktop license | **30-day free trial** (full evaluation access for desktop or cloud; no permanent free tier) |
+| **[Samsara Fleet](https://www.samsara.com/)** | Connected-operations platform combining telematics, vehicle diagnostics, inspections, maintenance workflows, driver operations, safety and fleet visibility. | **~$27–$33 / vehicle / month** (Software subscription; ~$99–$148 one-time gateway hardware fee; 3-year contract) | **30-day free trial** (includes hardware evaluation with risk-free return window; no permanent free tier) |
+| **[Geotab](https://www.geotab.com/)** | Telematics and fleet-management ecosystem providing vehicle data, diagnostics, maintenance-related insights, driver management and integrations through its connected-vehicle platform. | **~$30–$50 / vehicle / month** (Software + GO hardware bundle via authorized resellers) | **30-day hardware pilot / demo kit** available via authorized resellers (no self-serve free trial or permanent free tier) |
+| **[Verizon Connect](https://www.verizonconnect.com/)** | Fleet-management and telematics platform supporting vehicle tracking, maintenance-related workflows, inspections, driver operations and fleet analytics. | **~$20–$30 / vehicle / month** (Reveal Starter tier; typically 36-month contract) | **30-day pilot / trial** available upon request with hardware shipment (no permanent free tier) |
+| **[Motive](https://gomotive.com/)** | Fleet-management platform combining vehicle telematics, inspections, maintenance, driver workflows, safety and compliance capabilities. | **~$25 / vehicle / month** (Base software subscription; 12-month minimum contract; hardware gateway separate) | **Free Driver App & Workforce Management (WFM) tier** for basic driver logging; **Interactive demo / custom pilot** on request for fleet software |
+| **[Fleet Complete](https://www.fleetcomplete.com/)** | Connected fleet-management platform covering vehicle tracking, maintenance, asset management, driver operations and telematics. | **~$20–$45 / vehicle / month** (Base tracking and maintenance packages) | No permanent free tier; **Guided live demo & evaluation pilot** available upon request (no self-serve free trial) |
+| **[Limble CMMS](https://limblecmms.com/)** | Cloud CMMS focused on preventive maintenance, work orders, asset history, inspections, parts and maintenance analytics. Suitable for fleet and mixed-asset maintenance environments. | **$28 / user / month** (Standard tier billed annually; free unlimited work requesters) | **14-day free trial** (full feature access, no credit card required; no permanent free tier) |
+| **[UpKeep](https://www.onupkeep.com/)** | Mobile-first CMMS providing work orders, preventive maintenance, asset management, inspections, inventory, reporting and maintenance workflows that can be adapted to fleet operations. | **$24 / user / month** (Essential tier billed annually; free unlimited view-only/requester users) | **7-day free trial** (full feature access, no credit card required; no permanent free tier) |
 
 ## Open-Source GitHub Projects
 
